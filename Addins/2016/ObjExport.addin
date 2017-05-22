@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Assembly>ObjExport.dll</Assembly>
+    <AddInId>2a6cf1d1-2101-4c13-9d54-e5ba8a1d8e94</AddInId>
+    <FullClassName>ObjExport.Command</FullClassName>
+    <SuppressedWarning>WrongAssemblyPath</SuppressedWarning>
+    <VendorId>TBC_</VendorId>
+    <Text>OBJ Export</Text>
+    <Description>Export Revit Model Geometry to OBJ</Description>
+    <VisibilityMode>AlwaysVisible</VisibilityMode>
+    <Discipline>Any</Discipline>
+    <LanguageType>Unknown</LanguageType>
+  </AddIn>
+</RevitAddIns>

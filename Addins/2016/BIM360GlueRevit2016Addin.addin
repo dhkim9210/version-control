@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>Ribbon</Name>
+    <FullClassName>BIM360RevitAddin.HorizontalRibbon</FullClassName>
+    <Assembly>C:\Program Files\Autodesk\BIM360GlueAddins\Revit2016Addin\BIM360GlueRevit2016Addin.dll</Assembly>
+    <AddInId>9188649b-87f0-472b-b87d-b3462e3192cd</AddInId>
+    <VendorId>BIM360</VendorId>
+    <VendorDescription>Autodesk, Inc, www.autodesk.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>

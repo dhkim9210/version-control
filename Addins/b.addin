@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Assembly>D:\Revit\AchiPro\AchiPro\bin\Debug\AchiPro.dll</Assembly>
+    <AddInId>604b1052-f742-4951-8576-c261d1993101</AddInId>
+    <FullClassName>AchiPro.CsAddPanel</FullClassName>
+    <Name>HelloWorld</Name>
+    <VendorId>NAME</VendorId>
+    <VendorDescription>Your Company Information</VendorDescription>
+  </AddIn>
+</RevitAddIns>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+        <AddIn Type="Command">
+                <Assembly>D:\Revit\FirstProgram\FirstProgram\obj\Debug\FirstProgram.dll</Assembly>
+                <AddInId>239BD853-36E4-461f-9171-C5ACEDA4E729</AddInId>
+                <FullClassName>FirstProgram.Class1</FullClassName>
+                <Text>Import/Export</Text> 
+                <VendorId>NAME</VendorId>
+                <VendorDescription>Your Company Information</VendorDescription> 
+        </AddIn>
+  <AddIn Type="Command">
+    <Assembly>D:\Revit\FirstProgram\FirstProgram\obj\Debug\FirstProgram.dll</Assembly>
+    <AddInId>9b86c2f6-a5fd-43ad-b09d-0cc701aedd30</AddInId>
+    <FullClassName>FirstProgram.Lab4_1_ElementParameters</FullClassName>
+    <VendorId>ADNP</VendorId>
+    <Text>ElementParameters</Text>
+    <Description>List all parameters for selected elements.</Description>
+    <VisibilityMode>AlwaysVisible</VisibilityMode>
+    <Discipline>Any</Discipline>
+    <LanguageType>Unknown</LanguageType>
+  </AddIn>
+
+  <AddIn Type="Command">
+    <Assembly>D:\Revit\FirstProgram\FirstProgram\obj\Debug\FirstProgram.dll</Assembly>
+    <AddInId>9b86c2f6-a5fd-43ad-b09d-0cc701aedd32</AddInId>
+    <FullClassName>FirstProgram.Lab4_2_ExportParametersToExcel</FullClassName>
+    <VendorId>ADNP</VendorId>
+    <Text>Export Excel</Text>
+    <Description>List all parameters for selected elements.</Description>
+    <VisibilityMode>AlwaysVisible</VisibilityMode>
+    <Discipline>Any</Discipline>
+    <LanguageType>Unknown</LanguageType>
+  </AddIn>
+        <AddIn Type="Command">
+                <Assembly>D:\Revit\FirstProgram\FirstProgram\obj\Debug\FirstProgram.dll</Assembly>
+                <AddInId>3f6d3654-2279-445f-a645-86a6dfd7abf3</AddInId>
+                <FullClassName>FirstProgram.Lab4_3_1_CreateAndBindSharedParam</FullClassName>
+                <Text>CreateParam</Text> 
+                <VendorId>NAME</VendorId>
+                <VendorDescription>Your Company Information</VendorDescription> 
+        </AddIn>
+        <AddIn Type="Command">
+                <Assembly>D:\Revit\FirstProgram\FirstProgram\obj\Debug\FirstProgram.dll</Assembly>
+                <AddInId>3f6d3654-2279-445f-a645-86a6dfd7abf5</AddInId>
+                <FullClassName>FirstProgram.Lab4_3_2_ExportSharedParamToExcel</FullClassName>
+                <Text>ExportParam</Text> 
+                <VendorId>NAME</VendorId>
+                <VendorDescription>Your Company Information</VendorDescription> 
+        </AddIn>
+
+	<AddIn Type="Command">
+                <Assembly>D:\Revit\FirstProgram\FirstProgram\obj\Debug\FirstProgram.dll</Assembly>
+                <AddInId>3f6d3654-2279-445f-a645-86a6dfd7abc6</AddInId>
+                <FullClassName>FirstProgram.Class1</FullClassName>
+                <Text>Form1</Text> 
+                <VendorId>NAME</VendorId>
+                <VendorDescription>Your Company Information</VendorDescription> 
+        </AddIn>
+</RevitAddIns>

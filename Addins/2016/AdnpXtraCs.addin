@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+
+  <AddIn Type="Command">
+    <Assembly>D:\XtraCs.dll</Assembly>
+    <AddInId>edb40ce9-6d3d-4bb8-8735-cac65fb535da</AddInId>
+    <FullClassName>XtraCs.Lab4_2_ExportParametersToExcel</FullClassName>
+    <VendorId>ADNP</VendorId>
+    <Text>LExportParametersToExcel</Text>
+    <Description>Export all parameters for each model element to Excel, one sheet per category.</Description>
+    <VisibilityMode>AlwaysVisible</VisibilityMode>
+    <Discipline>Any</Discipline>
+    <LanguageType>Unknown</LanguageType>
+  </AddIn>
+  <AddIn Type="Command">
+    <Assembly>D:\XtraCs.dll</Assembly>
+    <AddInId>6793aa7c-b808-4c9f-aeb0-bf730dd953d9</AddInId>
+    <FullClassName>XtraCs.Lab4_3_1_CreateAndBindSharedParam</FullClassName>
+    <VendorId>ADNP</VendorId>
+    <Text>CreateAndBindSharedParam</Text>
+    <Description>Create and bind shared parameter.</Description>
+    <VisibilityMode>AlwaysVisible</VisibilityMode>
+    <Discipline>Any</Discipline>
+    <LanguageType>Unknown</LanguageType>
+  </AddIn>
+  <AddIn Type="Command">
+    <Assembly>D:\XtraCs.dll</Assembly>
+    <AddInId>555039fb-8871-4f03-9860-f18828b45f2b</AddInId>
+    <FullClassName>XtraCs.Lab4_3_2_ExportSharedParamToExcel</FullClassName>
+    <VendorId>ADNP</VendorId>
+    <Text>ExportSharedParamToExcel</Text>
+    <Description>Export all target element ids and their FireRating param values to Excel.</Description>
+    <VisibilityMode>AlwaysVisible</VisibilityMode>
+    <Discipline>Any</Discipline>
+    <LanguageType>Unknown</LanguageType>
+  </AddIn>
+  <AddIn Type="Command">
+    <Assembly>D:\XtraCs.dll</Assembly>
+    <AddInId>7b018fb5-eb4a-4d40-8c39-1fde2b04e7f8</AddInId>
+    <FullClassName>XtraCs.Lab4_3_3_ImportSharedParamFromExcel</FullClassName>
+    <VendorId>ADNP</VendorId>
+    <Text>ImportSharedParamFromExcel</Text>
+    <Description>Import updated FireRating param values from Excel.</Description>
+    <VisibilityMode>AlwaysVisible</VisibilityMode>
+    <Discipline>Any</Discipline>
+    <LanguageType>Unknown</LanguageType>
+  </AddIn>
+  <AddIn Type="Command">
+    <Assembly>D:\XtraCs.dll</Assembly>
+    <AddInId>84e7c779-b510-4c77-a9ac-c3cf6c68dcef</AddInId>
+    <FullClassName>XtraCs.Lab4_4_1_CreatePerDocParameters</FullClassName>
+    <VendorId>ADNP</VendorId>
+    <Text>CreatePerDocParameters</Text>
+    <Description>Add and bind a visible and an invisible per-doc parameter.</Description>
+    <VisibilityMode>AlwaysVisible</VisibilityMode>
+    <Discipline>Any</Discipline>
+    <LanguageType>Unknown</LanguageType>
+  </AddIn>
+  <AddIn Type="Command">
+    <Assembly>D:\XtraCs.dll</Assembly>
+    <AddInId>6cd2f5b8-2a3b-4f99-8a0a-21143d727113</AddInId>
+    <FullClassName>XtraCs.Lab4_4_2_IncrementPerDocParameters</FullClassName>
+    <VendorId>ADNP</VendorId>
+    <Text>Lab4_4_2_IncrementPerDocParameters</Text>
+    <Description>Increment the invisible per-doc param.</Description>
+    <VisibilityMode>AlwaysVisible</VisibilityMode>
+    <Discipline>Any</Discipline>
+    <LanguageType>Unknown</LanguageType>
+  </AddIn>
+</RevitAddIns>
