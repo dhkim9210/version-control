@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+        <AddIn Type="Command">
+                <Assembly>D:\Revit\AddinProgram\AddinProgram\bin\Debug\AddinProgram.dll</Assembly>
+                <AddInId>239BD853-36E4-461f-9171-C5ACEDA4E741</AddInId>
+                <FullClassName>AddinProgram.Class1</FullClassName>
+                <Text>HelloWorld</Text> 
+                <VendorId>NAME</VendorId>
+                <VendorDescription>Your Company Information</VendorDescription> 
+        </AddIn>
+</RevitAddIns>

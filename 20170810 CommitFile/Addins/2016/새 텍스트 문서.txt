@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+                <Assembly>D:\Revit\FirstProgram\FirstProgram\obj\Debug\FirstProgram.dll</Assembly>
+                <AddInId>3f6d3654-2279-445f-a645-86a6dfd7abc6</AddInId>
+                <FullClassName>FirstProgram.Class1</FullClassName>
+                <Text>Form1</Text> 
+                <VendorId>NAME</VendorId>
+                <VendorDescription>Your Company Information</VendorDescription> 
+        </AddIn>
+</RevitAddIns>

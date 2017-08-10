@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>Software</Name>
+    <Assembly>C:\Program Files\Ideate\Ideate Software 2016\IdeateSoftwareISW.dll</Assembly>
+    <AddInId>00108C0E-E5F3-4E25-BCDD-4D7E558295B4</AddInId>
+    <FullClassName>Ideate.RevitExtApp.IdeateSoftwareISW.Application.IdeateSoftwareApplication</FullClassName>
+    <VendorId>IDSW</VendorId>
+    <VendorDescription>Ideate Software, www.ideatesoftware.com/</VendorDescription>
+  </AddIn>
+</RevitAddIns>
